@@ -34,7 +34,7 @@ Beyond their questionable services, invention helpers are known for leveraging t
 <br>
 [AI Vision Mouse](https://github.com/sourceduty/AI_Vision_Mouse)
 <br>
-[Product Dseign](https://github.com/sourceduty/Product_Design)
+[Product Design](https://github.com/sourceduty/Product_Design)
 <br>
 [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 
