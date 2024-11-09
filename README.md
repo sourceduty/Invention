@@ -1,6 +1,6 @@
 ![Invention](https://github.com/user-attachments/assets/f9de83c8-4c52-4ecc-8749-cdce877a2c8b)
 
-> Inveting new software, devices, processes, services or products.
+> Inventing new software, devices, processes, services or products.
 #
 
 Design and development of products and software are crucial processes that transform ideas into functional and user-friendly solutions. In the design phase, the focus is on understanding user needs, market demands, and technical constraints. This involves creating prototypes, wireframes, or mockups to visualize the final product while considering usability, aesthetics, and functionality. For physical products, this may include material selection and ergonomics, while for software, it involves crafting an intuitive user interface (UI) and ensuring a seamless user experience (UX). A well-thought-out design establishes the foundation for development, balancing innovation with practicality to meet user expectations.
