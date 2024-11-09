@@ -10,7 +10,7 @@ Development, on the other hand, involves bringing the design to life through eng
 #
 ### Open-Source Invention
 
-![Open](https://github.com/user-attachments/assets/b196b852-3b2e-40fa-bcd2-fdf3933332a3)
+![Open](https://github.com/user-attachments/assets/7f07951a-7b71-4696-b623-c67f9c4980da)
 
 An open-source invention refers to a creation or innovation that is made freely available for public use, modification, and distribution. Unlike traditional inventions, which are often protected by patents and proprietary licenses, open-source inventions are shared with detailed documentation, designs, and instructions. This openness encourages collaboration, enabling anyone to contribute to the invention's improvement or adapt it for specific needs. By breaking down barriers to entry, open-source inventions democratize innovation, fostering creativity and resourcefulness within a global community.
 
