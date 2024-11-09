@@ -19,7 +19,7 @@ The AI Vision Mouse, an open-source invention by Sourceduty, exemplifies this co
 Open-source inventions like the AI Vision Mouse also promote innovation ecosystems where knowledge-sharing and community engagement drive progress. For example, users and contributors can suggest features, report bugs, or even merge their improvements into the original project. This collaborative dynamic not only accelerates the refinement of the invention but also inspires related innovations. In the long term, open-source inventions challenge conventional notions of ownership and exclusivity, encouraging a more inclusive and innovative technological landscape.
 
 #
-### Invetion Helper Trolls
+### Invention Helper Trolls
 
 ![Money](https://github.com/user-attachments/assets/f91e6226-981c-44ab-95d9-861fe9d7b0b8)
 
