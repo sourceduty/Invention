@@ -37,6 +37,10 @@ Beyond their questionable services, invention helpers are known for leveraging t
 [Product Design](https://github.com/sourceduty/Product_Design)
 <br>
 [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+<br>
+[Patent Advisor](https://github.com/sourceduty/Patent_Advisor)
+<br>
+[Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
