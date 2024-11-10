@@ -8,6 +8,13 @@ Design and development of products and software are crucial processes that trans
 Development, on the other hand, involves bringing the design to life through engineering and programming. This phase includes coding, testing, and refining the product or software to ensure it meets quality standards and performs reliably in real-world scenarios. Iterative methodologies such as Agile or Scrum are often used to incorporate feedback and make continuous improvements during development. For software, this includes debugging, integration of features, and deployment, while for products, it may involve prototyping, manufacturing, and quality assurance. Both design and development are collaborative efforts, requiring input from cross-disciplinary teams to ensure the final solution is both functional and market-ready.
 
 #
+### Industrial Designs
+
+Industrial design in Canada encompasses the creation and registration of the visual aesthetics of products, including their shape, configuration, pattern, or ornamentation. The Canadian Intellectual Property Office (CIPO) oversees the registration of these designs, granting exclusive rights to proprietors for up to 15 years. This protection enables designers and businesses to prevent unauthorized reproduction of their designs, fostering innovation and maintaining a competitive edge in the market.
+
+Canada has a rich history of industrial design innovations. For instance, Robotics Design Inc., founded in Montreal in 1997, has developed modular robots and ergonomic arms that have significantly impacted various industries. Their contributions include the BIXI bike docking station, which supports public bike-sharing systems in cities worldwide. Additionally, the National Research Council Canada's Industrial Research Assistance Program (NRC-IRAP) has been instrumental in supporting small and medium-sized enterprises in developing and commercializing innovative products, thereby enhancing Canada's industrial design landscape.
+
+#
 ### Open-Source Invention
 
 ![Open](https://github.com/user-attachments/assets/7f07951a-7b71-4696-b623-c67f9c4980da)
