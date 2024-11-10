@@ -35,6 +35,11 @@ Invention helpers are entities or individuals who present themselves as allies t
 Beyond their questionable services, invention helpers are known for leveraging the patents they help secure as tools for profit at the expense of genuine innovation. Instead of enabling inventors to realize the commercial potential of their creations, these entities often harvest licensing fees or legal settlements by aggressively pursuing businesses or individuals who inadvertently infringe on their patents. This behavior not only stifles innovation but also creates an adversarial environment in the intellectual property ecosystem. In some cases, invention helpers even retain ownership of the patents, sidelining the original inventors from reaping the rewards of their ideas. By positioning themselves as essential intermediaries, invention helpers erode the trust inventors place in the system and perpetuate practices that prioritize personal gain over the advancement of innovation.
 
 #
+### Design Copyright
+
+Copyright for design in Canada, North America, and worldwide varies based on local laws and international agreements. In Canada, copyright protects original artistic works, including industrial designs that are not registered under the Industrial Design Act, offering creators rights for life plus 50 years. In the broader North American context, the United States provides copyright protection for designs under specific categories and laws like the Copyright Act and Design Protection Act, extending protection for 70 years after the creator's death. Globally, treaties like the Berne Convention ensure a baseline level of copyright protection across member countries, enabling creators to enforce their rights internationally. However, the scope of protection for designs specifically often falls under a mix of copyright, trademark, and industrial design laws, varying significantly between jurisdictions.
+
+#
 ### Related Links
 
 [Tesla Coil](https://github.com/sourceduty/Tesla_Coil)
