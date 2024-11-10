@@ -10,7 +10,7 @@ Development, on the other hand, involves bringing the design to life through eng
 #
 ### Industrial Designs
 
-Industrial design in Canada encompasses the creation and registration of the visual aesthetics of products, including their shape, configuration, pattern, or ornamentation. The Canadian Intellectual Property Office (CIPO) oversees the registration of these designs, granting exclusive rights to proprietors for up to 15 years. This protection enables designers and businesses to prevent unauthorized reproduction of their designs, fostering innovation and maintaining a competitive edge in the market.
+For Sourceduty, industrial design in Canada encompasses the creation and registration of the visual aesthetics of products, including their shape, configuration, pattern, or ornamentation. The Canadian Intellectual Property Office (CIPO) oversees the registration of these designs, granting exclusive rights to proprietors for up to 15 years. This protection enables designers and businesses to prevent unauthorized reproduction of their designs, fostering innovation and maintaining a competitive edge in the market.
 
 Canada has a rich history of industrial design innovations. For instance, Robotics Design Inc., founded in Montreal in 1997, has developed modular robots and ergonomic arms that have significantly impacted various industries. Their contributions include the BIXI bike docking station, which supports public bike-sharing systems in cities worldwide. Additionally, the National Research Council Canada's Industrial Research Assistance Program (NRC-IRAP) has been instrumental in supporting small and medium-sized enterprises in developing and commercializing innovative products, thereby enhancing Canada's industrial design landscape.
 
